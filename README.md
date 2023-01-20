@@ -1,1 +1,1 @@
-# Github 프로젝트 관리
+# Github 협업 관리
